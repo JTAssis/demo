@@ -2,4 +2,4 @@
 
 - Learning Github
 
-1. I Know hot to push modifications to Github
+1. I Know how to push modifications to Github
